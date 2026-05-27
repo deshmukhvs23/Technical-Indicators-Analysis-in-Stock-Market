@@ -94,7 +94,7 @@ python stock_prediction.py
 ## Project structure
 
 ```
-stock-market-prediction/
+Technical-Indicators-Analysis-in-Stock-Market/
 ├── stock_prediction.py      # Main pipeline (clean, production-style)
 ├── notebooks/
 │   └── exploration.ipynb    # EDA and experimentation
