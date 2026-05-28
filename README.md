@@ -1,4 +1,4 @@
-# Technical Indicators Analysis in Stock Market using Machine Learning
+# ML Driven Trading Signals in Stock Market using Machine Learning
 
 Binary classification model to predict next-day stock price direction (UP/DOWN) for high-liquidity stocks using technical indicators.
 
@@ -94,7 +94,7 @@ python stock_prediction.py
 ## Project structure
 
 ```
-Technical-Indicators-Analysis-in-Stock-Market/
+ML-Driven-Trading-Signals/
 ├── stock_prediction.py      # Main pipeline (clean, production-style)
 ├── notebooks/
 │   └── exploration.ipynb    # EDA and experimentation
